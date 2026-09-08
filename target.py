@@ -1,2 +1,1 @@
-# Security research PoC
-def legit_function(): pass
+minor change2
